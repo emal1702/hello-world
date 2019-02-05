@@ -1,4 +1,3 @@
-# hello-world igen
 # hello-world
 # hejsan
 
@@ -11,4 +10,6 @@
 # I söndags hade jag ingen häst
 # Hästarna äter 2 kg hö per dag
 # Jag måste köpa mer hö
+
+# Sen måste jag köpa en hund så jag kan flocka fåren
 
